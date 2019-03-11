@@ -1,0 +1,6 @@
+owner=549961779959037963
+prefix=+
+game=Kplay
+stayinchannel=true
+songinstatus=false
+token=NTU0NjMyNzMyNzQzODI3NDY5.D2fdgg.p9RTy-48E1EIpnyOByXvp2xk0H0
